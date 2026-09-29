@@ -1,0 +1,37 @@
+[
+    {
+    "num": "01",
+    "title": "Internship at Scallop Culture in Kanemi Shibutasuisan.Co.,Ltd, Hokaido, Japan",
+    "period": "Internship Periode · Feb 2026 — Sept 2026",
+    "detail": "Budidaya kerang hotate dan pengembangan dan pemeliharaan alat tangkap.",
+    "tags": ["Marine Culture", "Aquaculture"]
+  },
+  {
+    "num": "02",
+    "title": "Marine Plastic Waste Tracker",
+    "period": "Research project · Nov 2025 — present",
+    "detail": "Design and Development of an IoT-Based Marine Plastic Waste Tracker Using MQTT Communication. Prototype ini berfokus pada pelacakan sampah plastik berbasis IoT dan komunikasi data MQTT.",
+    "tags": ["IoT", "MQTT", "3D Design", "Microcontroller"]
+  },
+  {
+    "num": "03",
+    "title": "Realtime Tracking Dashboard",
+    "period": "Web Designer · Jan 2025 — present",
+    "detail": "Website dashboard realtime untuk tracking prototype plastic waste menggunakan HTML, CSS, JavaScript, Node.js, dan Mosquitto MQTT Broker.",
+    "tags": ["HTML/CSS/JS", "Node.js", "Mosquitto"]
+  },
+  {
+    "num": "04",
+    "title": "Marine Instrumentation",
+    "period": "Teaching Assistant · Aug 2024 — present",
+    "detail": "Teaching Assistant of Marine Instrumentation. Peran kontrak yang terkait dengan Internet of Things (IoT), marine instrumentation, dan kegiatan pembelajaran/praktikum.",
+    "tags": ["IoT", "Instrumentation", "Teaching"]
+  },
+  {
+    "num": "05",
+    "title": "Medkom OPIK UNSOED 2024",
+    "period": "Coordinator · Jan 2024 — present",
+    "detail": "Koordinator Media & Komunikasi OPIK UNSOED 2024. Pengalaman organisasi yang melengkapi sisi teknis dengan koordinasi dan komunikasi.",
+    "tags": ["Communication", "Coordination"]
+  }
+]

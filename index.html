@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Portfolio Jumantoro — Researcher, Web Designer, Marine Instrumentation & IoT.">
+<title>Jumantoro — Portfolio</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav>
+  <a class="logo" href="#top">JUMANTORO<span>.</span></a>
+  <div class="navlinks">
+    <a href="#about">About</a><a href="#work">Work</a><a href="#skills">Skills</a><a href="#contact">Contact</a>
+  </div>
+  <button class="theme" id="theme" aria-label="Ganti tema">☾</button>
+</nav>
+
+<header class="hero" id="top">
+  <div class="grid"></div>
+  <div class="container reveal">
+    <div class="eyebrow"><span class="dot"></span> Research • Web • Marine Technology</div>
+    <h1>Jumantoro<br><span class="gradient">Builds at the edge.</span></h1>
+    <p>Researcher, Web Designer, dan Teaching Assistant yang menggabungkan <b>IoT, marine instrumentation, data, dan web interface</b> untuk membangun prototype teknologi yang terhubung dan dapat dipantau secara realtime.</p>
+    <div class="cta">
+      <a class="btn primary" href="#work">Lihat karya ↓</a>
+      <a class="btn" href="https://www.linkedin.com/in/jumantoro" target="_blank" rel="noreferrer">LinkedIn ↗</a>
+    </div>
+  </div>
+</header>
+
+<main>
+<section id="about">
+  <div class="container reveal">
+    <div class="section-head"><div><div class="kicker">01 — Profile</div><h2>Teknologi yang<br>punya konteks.</h2></div>
+    <p class="lead">Fokus yang terlihat dari pengalaman LinkedIn: riset teknologi kelautan, pengembangan web, instrumentasi, dan Internet of Things.</p></div>
+    <div class="cards">
+      <article class="card"><h3>Researcher</h3><p>Mengembangkan prototype <b>IoT-Based Marine Plastic Waste Tracker</b> dengan komunikasi MQTT untuk kebutuhan pemantauan sampah plastik di lingkungan perairan.</p><div class="tags"><span class="tag">IoT</span><span class="tag">MQTT</span><span class="tag">Marine Tech</span></div></article>
+      <article class="card"><h3>Web Designer</h3><p>Membangun dashboard realtime untuk tracking prototype menggunakan HTML, CSS, JavaScript, Node.js, dan Mosquitto MQTT Broker.</p><div class="tags"><span class="tag">HTML</span><span class="tag">CSS</span><span class="tag">JavaScript</span><span class="tag">Node.js</span></div></article>
+    </div>
+  </div>
+</section>
+
+<section id="work">
+  <div class="container reveal">
+    <div class="section-head">
+      <div><div class="kicker">02 — Selected Work</div><h2>Projects & roles.</h2></div>
+      <p class="lead">Klik project untuk melihat detail teknologi dan konteksnya.</p>
+    </div>
+    <!-- Project cards dimuat otomatis dari data/projects.json via main.js -->
+    <div class="cards" id="projects-container"></div>
+  </div>
+</section>
+
+<section>
+  <div class="container reveal">
+    <div class="section-head"><div><div class="kicker">03 — Timeline</div><h2>Experience.</h2></div></div>
+    <div class="timeline">
+      <div class="item"><div class="meta">NOV 2025 — PRESENT · WIRASWASTA</div><h3>Researcher</h3><div class="org">IoT-Based Marine Plastic Waste Tracker</div><p>Design and Development of an IoT-Based Marine Plastic Waste Tracker Using MQTT Communication.</p></div>
+      <div class="item"><div class="meta">JAN 2025 — PRESENT · WIRASWASTA</div><h3>Web Designer</h3><div class="org">Realtime dashboard for plastic waste tracking</div><p>Dashboard realtime menggunakan HTML, CSS, JavaScript, Node.js, dan Mosquitto MQTT Broker.</p></div>
+      <div class="item"><div class="meta">AUG 2024 — PRESENT · KONTRAK</div><h3>Teaching Assistant of Marine Instrumentation</h3><div class="org">Marine instrumentation & IoT</div><p>Peran pendamping pembelajaran/praktikum dengan keterkaitan pada Internet of Things dan marine instrumentation.</p></div>
+      <div class="item"><div class="meta">JAN 2024 — PRESENT</div><h3>Koordinator Medkom OPIK UNSOED 2024</h3><div class="org">Organizational experience</div><p>Koordinasi media dan komunikasi dalam kegiatan organisasi.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="container reveal">
+    <div class="section-head"><div><div class="kicker">04 — Toolbox</div><h2>Skills.</h2></div>
+    <p class="lead">Keahlian yang ditawarkan.</p></div>
+    <div class="skills">
+      <span class="skill">Internet of Things (IoT)</span><span class="skill">Marine Instrumentation</span><span class="skill">MQTT</span>
+      <span class="skill">Microcontrollers</span><span class="skill">3D Design</span><span class="skill">HTML</span>
+      <span class="skill">CSS</span><span class="skill">JavaScript</span><span class="skill">Node.js</span>
+      <span class="skill">Mosquitto MQTT Broker</span><span class="skill">Web Design</span><span class="skill">Research</span>
+      <span class="skill">Media & Communication</span>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>IoT → Web</b><span>End-to-end prototype thinking</span></div>
+      <div class="stat"><b>Realtime</b><span>MQTT-based data communication</span></div>
+      <div class="stat"><b>Marine</b><span>Technology applied to ocean context</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container reveal">
+    <div class="card wide">
+      <div class="kicker">05 — Contact</div><h2>Let's build something connected.</h2>
+      <p class="lead">Untuk kolaborasi riset, web, IoT, atau marine instrumentation, hubungi saya melalui LinkedIn.</p>
+      <div class="cta" style="margin-top:24px"><a class="btn primary" href="https://www.linkedin.com/in/jumantoro" target="_blank" rel="noreferrer">Open LinkedIn ↗</a><a class="btn" href="#top">Back to top ↑</a></div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer><div class="container"><strong>Jumantoro.</strong> — Researcher × Web × Marine Technology<br><small>Modular portfolio structure with external CSS, JS, and JSON assets.</small></div></footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modalbox"><button class="close" id="close" aria-label="Tutup">×</button><div class="kicker">Project detail</div><h2 id="modalTitle" style="font-size:2.2rem;margin-top:10px"></h2><p id="modalText" class="lead" style="max-width:none"></p></div>
+</div>
+
+<script src="js/main.js"></script>
+</body>
+</html>
