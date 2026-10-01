@@ -1,38 +1,37 @@
 [
   {
     "num": "01",
-    "title": "Internship at Scallop Culture — Kanemi Shibutasuisan Co., Ltd., Hokkaido, Japan",
+    "title": "Scallop Aquaculture Internship",
     "period": "Internship · Feb 2026 — Sept 2026",
-    "detail": "Worked on scallop (hotate) aquaculture operations, including cultivation activities and the development and maintenance of fishing equipment.",
-    "tags": ["Marine Culture", "Aquaculture"]
+    "detail": "Contributed to scallop (hotate) aquaculture operations at Kanemi Shibutasuisan Co., Ltd. in Hokkaido, Japan. Focused on cultivation processes and the development and maintenance of marine equipment.",
+    "tags": ["Marine Culture", "Aquaculture", "Field Operations"]
   },
   {
     "num": "02",
     "title": "Marine Plastic Waste Tracker",
     "period": "Research Project · Nov 2025 — Present",
-    "detail": "Design and Development of an IoT-Based Marine Plastic Waste Tracker Using MQTT Communication. The prototype focuses on IoT-based plastic waste tracking and real-time data communication using MQTT.",
-    "tags": ["IoT", "MQTT", "3D Design", "Microcontroller"]
+    "detail": "Designed and developed an IoT-based marine plastic waste tracking prototype. Utilizes MQTT communication for reliable, real-time data transmission to monitor and map aquatic environments effectively.",
+    "tags": ["IoT", "MQTT", "3D Design", "Microcontrollers"]
   },
   {
     "num": "03",
-    "title": "Real-time Tracking Dashboard",
-    "period": "Web Designer · Jan 2025 — Present",
-    "detail": "A real-time web dashboard for tracking the plastic waste monitoring prototype using HTML, CSS, JavaScript, Node.js, and Mosquitto MQTT Broker.",
-    "tags": ["HTML/CSS/JS", "Node.js", "Mosquitto"]
+    "title": "Real-Time Tracking Dashboard",
+    "period": "Web Developer · Jan 2025 — Present",
+    "detail": "Developed a real-time web dashboard to visualize data from the marine plastic waste tracker. Built with HTML, CSS, JavaScript, and Node.js, and integrated with a Mosquitto MQTT Broker for live data streaming.",
+    "tags": ["HTML/CSS/JS", "Node.js", "Mosquitto", "Data Visualization"]
   },
   {
     "num": "04",
     "title": "Marine Instrumentation",
     "period": "Teaching Assistant · Aug 2024 — Present",
-    "detail": "Teaching Assistant of Marine Instrumentation. Supporting learning and laboratory activities related to Internet of Things (IoT), marine instrumentation, and practical applications.",
-    "tags": ["IoT", "Instrumentation", "Teaching"]
+    "detail": "Teaching Assistant for Marine Instrumentation. Facilitate laboratory sessions and learning activities focused on Internet of Things (IoT) applications, sensor integration, and practical marine technology.",
+    "tags": ["IoT", "Instrumentation", "Teaching", "Mentorship"]
   },
   {
     "num": "05",
-    "title": "Medkom OPIK UNSOED 2024",
-    "period": "Coordinator · Jan 2024 — Present",
-    "detail": "Media & Communication Coordinator for OPIK UNSOED 2024. An organizational experience that complements technical expertise with coordination, media, and communication skills.",
-    "tags": ["Communication", "Coordination"]
+    "title": "Media & Communication Coordinator",
+    "period": "Coordinator · Dec 2023 — Dec 2024",
+    "detail": "Media & Communication Coordinator for OPIK UNSOED 2024. Managed organizational communication, media relations, and documentation, complementing technical expertise with strong leadership and coordination skills.",
+    "tags": ["Communication", "Coordination", "Leadership"]
   }
 ]
-```
